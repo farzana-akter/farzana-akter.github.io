@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Farzana Akter Sohaly</title>
+    <link>https://farzana-akter.github.io/publication_types/1/</link>
+      <atom:link href="https://farzana-akter.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 11:16:46 +0600</lastBuildDate>
+    <image>
+      <url>https://farzana-akter.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://farzana-akter.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>DESIGN AND DEVELOPMENT OF AN OBSTACLE AVOIDING ROBO-CAR</title>
+      <link>https://farzana-akter.github.io/publication/obstacle-avoiding/</link>
+      <pubDate>Sun, 29 Sep 2019 11:16:46 +0600</pubDate>
+      <guid>https://farzana-akter.github.io/publication/obstacle-avoiding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Electrical Characterization of Sn doped ZnSThin Films Synthesized by Chemical Bath Deposition (CBD)</title>
+      <link>https://farzana-akter.github.io/publication/electrical-character/</link>
+      <pubDate>Sun, 29 Sep 2019 11:15:27 +0600</pubDate>
+      <guid>https://farzana-akter.github.io/publication/electrical-character/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and Optical Properties of Sn doped ZnS Thin Films Synthesized by Chemical Bath Deposition Method</title>
+      <link>https://farzana-akter.github.io/publication/structural-optical/</link>
+      <pubDate>Sun, 29 Sep 2019 11:03:49 +0600</pubDate>
+      <guid>https://farzana-akter.github.io/publication/structural-optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

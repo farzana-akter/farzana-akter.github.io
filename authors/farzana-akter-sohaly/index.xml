@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farzana Akter Sohaly</title>
+    <link>https://farzana-akter.github.io/authors/farzana-akter-sohaly/</link>
+      <atom:link href="https://farzana-akter.github.io/authors/farzana-akter-sohaly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Farzana Akter Sohaly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2019 11:16:46 +0600</lastBuildDate>
+    <image>
+      <url>https://farzana-akter.github.io/img/icon-192.png</url>
+      <title>Farzana Akter Sohaly</title>
+      <link>https://farzana-akter.github.io/authors/farzana-akter-sohaly/</link>
+    </image>
+    
+    <item>
+      <title>DESIGN AND DEVELOPMENT OF AN OBSTACLE AVOIDING ROBO-CAR</title>
+      <link>https://farzana-akter.github.io/publication/obstacle-avoiding/</link>
+      <pubDate>Sun, 29 Sep 2019 11:16:46 +0600</pubDate>
+      <guid>https://farzana-akter.github.io/publication/obstacle-avoiding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
